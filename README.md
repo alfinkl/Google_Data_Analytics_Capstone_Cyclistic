@@ -25,4 +25,12 @@ Before the add table process to PostgreSQL, the first step is to identify the ch
 After adding twelve months of datasets, the cleaning process starts with querying the number of the Null data. The figure below is the results of the query : 
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/db590e5b9fc36dd95af8ac01e7860c28e8634789/Null%20Data%20results.png)
 The next step is to eliminate the duplicate data, using command _ctid_ with ride_id as the pivot for this process to eliminate duplicate ride_id appearing on the datasets. Using this technique to let the command choose only the first unique column and erase the copy of the same column. Figure below is the query process for deleting the duplicate data : 
+![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/cd72184ec7ebec709b8b5ce63e2e2a3cc96507c7/Cleaning%20Duplicate%20Data.png)
+
+## Analyze and Findings
+First of all, this analysis is using a seasonal approach to classify the monthly-data. The seasonal time in the US, divided by 4 seasons, is winter start from December to February, spring start from March to May, summer season from June to August, and fall or known as autumn start from September to November.
+With the classification of the seasonal time, I count the total ride count for member and casual together for each season. 
+
+A glance above shows that the most people like to ride a bike in Chicago during the summer season, with the peak number to 790,177 in August. On the other hand, the lowest rides appear during the winter season with the lowest number 138,689 in January. From the figure above, it shows that most people love to ride a bike during a friendly climate.
+The next analysis is about the type of the bikes for all member and casual riders for the whole year. Apparently, the pie charts below show that ??% rode an electric bike, and the rest ??% rode classic bikes.  
 
