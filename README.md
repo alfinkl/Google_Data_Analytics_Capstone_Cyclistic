@@ -33,7 +33,7 @@ The next step is to eliminate the duplicate data, using command _ctid_ with ride
 First of all, this analysis is using a seasonal approach to classify the monthly-data. The seasonal time in the US, divided by 4 seasons, is winter start from December to February, spring start from March to May, summer season from June to August, and fall or known as autumn start from September to November.
 With the classification of the seasonal time, I count the total ride count for member and casual together for each season. 
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/bc8b63e074c8a508463c83d197c7f963df568b44/Total%20Ride%20Each%20Seasons.png)
-
+![image]
 A glance above shows that the most people like to ride a bike in Chicago during the summer season, with the peak number to 790,177 in August. On the other hand, the lowest rides appear during the winter season with the lowest number 138,689 in January. From the figure above, it shows that most people love to ride a bike during a friendly climate.
 The next analysis is about the type of the bikes for all member and casual riders for the whole year. Apparently, the pie charts below show that ??% rode an electric bike, and the rest ??% rode classic bikes.  
 
