@@ -56,6 +56,7 @@ The next behavior observation is regarding their weekly rides. Two figures above
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/ca725c00bf1b04efc529916ec35a0be5d468f69f/Top%20Start%20and%20End%20Station%20in%20Each%20Seasons%20for%20Casual%20Ride.png)
 
 Also, for the further understanding of the behavior the both types of riders, conduct the count of the location of the starting and ending stations. For the two figures above, apparently the member rider has consistent results shown in three seasons from  Spring to Fall with starting and ending stations at the same locations at Kingsbury St and Kinzie St. Although the results for casual riders are more diverse with three different stations, it turns out the Navy Pier station and Streeter Dr & Grand Ave station have the same latitude and longitude points as shown at table 1.3. So the casual riders tend to like start and end their ride at Navy Pier or Streeter Dr & Grand Ave station, but during the Summer time, the starting station move to DuSable Lake Shore Dr & Monroe St. 
+![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/bd36ad010c3731a031e54b77894a63a967fdd749/Map%20for%202%20most%20stations%20for%20casual.png)
 ![image]
 
 Based on the location of the stations, the casual riders tend to like to ride a bike around the lake area, contrast with the member riders, the two stations are around the pedestrian area and business district as shown at map figures below:
