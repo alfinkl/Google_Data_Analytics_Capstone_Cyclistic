@@ -53,6 +53,9 @@ Considering the behavior of both types of riders, data about the time each type 
 
 The next behavior observation is regarding their weekly rides. Two figures above showed the average for both types in a week. For the casual riders, they tend to ride a bike during the weekend, with the highest number of rides on Saturday. For the member riders graph, the trends showed most of the members commuted during the weekdays, with the total rides reaching over ten thousand on weekdays, with the highest number on Thursday.
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/5f51d8e98cd778e29a62f5dd5e67b7c4a9d37370/Top%20Start%20and%20End%20Station%20in%20Each%20Seasons%20for%20Member%20Rider.png)
-![image]
+![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/ca725c00bf1b04efc529916ec35a0be5d468f69f/Top%20Start%20and%20End%20Station%20in%20Each%20Seasons%20for%20Casual%20Ride.png)
 
 Also, for the further understanding of the behavior the both types of riders, conduct the count of the location of the starting and ending stations. For the two figures above, apparently the member rider has consistent results shown in three seasons from  Spring to Fall with starting and ending stations at the same locations at Kingsbury St and Kinzie St. Although the results for casual riders are more diverse with three different stations, it turns out the Navy Pier station and Streeter Dr & Grand Ave station have the same latitude and longitude points as shown at table 1.3. So the casual riders tend to like start and end their ride at Navy Pier or Streeter Dr & Grand Ave station, but during the Summer time, the starting station move to DuSable Lake Shore Dr & Monroe St. 
+![image]
+
+Based on the location of the stations, the casual riders tend to like to ride a bike around the lake area, contrast with the member riders, the two stations are around the pedestrian area and business district as shown at map figures below:
