@@ -66,13 +66,14 @@ Based on the location of the stations, the casual riders tend to like to ride a 
 The last figure is analyzing the different ride duration between both types. From the table above, the casual riders tend to ride longer than the member riders, with average ride approximately from fifteen minutes in the Winter season to the longest duration being twenty four minutes ride during the Summer. On the other hand, the member riders approximately only spent ten to thirteen minutes riding for the whole year.
 
 ## Insight
-	According to the analysis process above, both types have similar trends, such as the highest number of rides reached during the Summer season, and also the least riders during the Winter season. Most member and casual riders tend to ride a bike at 5 pm as their preferred hours during the day. 
+According to the analysis process above, both types have similar trends, such as the highest number of rides reached during the Summer season, and also the least riders during the Winter season. Most member and casual riders tend to ride a bike at 5 pm as their preferred hours during the day. 
 
 Casual|Member|
 |------|------|
 |Tend to ride during the weekend in Spring and Summer for leisure activity|Use a bike while the working hours (8am and 5pm) during the weekdays in Spring and Summer|
 |Commuted longer duration than member riders|Commute more frequently than casual riders|
 |Most of the start and end stations around recreational areas such as lake sites|The start and end stations close to residential areas and business district|
+
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/6e360ecf60f1fcee1cccd43b6576c4c9a93b6a9c/Circle%20Casual%20Member.png)
 
 After all the insight found from the analysis and sorting it into the diagram above, those similarities between member and casual riders could be an element that the marketing team focuses on for their campaign strategy.
