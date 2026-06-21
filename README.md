@@ -60,7 +60,35 @@ Also, for the further understanding of the behavior the both types of riders, co
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/c3b1b89cda29224171be211a62452344c1ece7b0/Map%20for%202%20most%20stations%20for%20member.png)
 
 Based on the location of the stations, the casual riders tend to like to ride a bike around the lake area, contrast with the member riders, the two stations are around the pedestrian area and business district as shown at map figures below:
-![image](
+![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/f649a50d594faf492cacee0abdb377d04102cae1/Navy%20Pier%20and%20Streeter%20lat%20and%20lng.png)
 
 The last figure is analyzing the different ride duration between both types. From the table above, the casual riders tend to ride longer than the member riders, with average ride approximately from fifteen minutes in the Winter season to the longest duration being twenty four minutes ride during the Summer. On the other hand, the member riders approximately only spent ten to thirteen minutes riding for the whole year.
+
+## Insight
+	According to the analysis process above, both types have similar trends, such as the highest number of rides reached during the Summer season, and also the least riders during the Winter season. Most member and casual riders tend to ride a bike at 5 pm as their preferred hours during the day. 
+
+Casual|Member|
+|------|------|
+|Tend to ride during the weekend in Spring and Summer for leisure activity|Use a bike while the working hours (8am and 5pm) during the weekdays in Spring and Summer|
+|Commuted longer duration than member riders|Commute more frequently than casual riders|
+|Most of the start and end stations around recreational areas such as lake sites|The start and end stations close to residential areas and business district|
+![image]
+
+After all the insight found from the analysis and sorting it into the diagram above, those similarities between member and casual riders could be an element that the marketing team focuses on for their campaign strategy.
+Suggestions
+Based on all the circumstances that were found from identifying and analyzing the behavior for both types of riders, three suggestions could be given to the marketing team in order to achieve the target, which is to persuade the casual member to purchase the membership of cyclistic. 
+
+|The Annual Membership|Summer Membership/3 Months Membership|Lake Membership/Monthly Membership|
+|---------------------|-------------------------------------|----------------------------------|
+|First-month free|Unlimited ride for 3 months|Unlimited ride for 3 months|Free ride for certain stations around the lake|
+|Unlimited ride for classic and electric bike|Free use for all types of bike|Free use for all types of bike|
+|Lower the price from current price by 10%|	Extra 2 days of weekends, so its 3 months + 2 days of weekend|Charge for 10% current annual member price|	
+|---------------------|Boost the marketing campaigns for the Summer recreational in Chicago|Boost the marketing campaigns for the lake tour, and introduce attractions around the stations|
+|---------------------|Charge for 25% of annual member price|----------------------------------|
+
+
+
+
+
+
 
