@@ -41,3 +41,7 @@ The next analysis is about the type of the bikes for all member and casual rider
 ### Comparison Behavior
 In order to understand the difference between the member and casual riders, the next analysis is comparing the data between member and casual riders. 
 Starting with the total ride between them in each season, the two figures below show the total count with bar graphs, respectively for casual in blue color and member in orange color.
+![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/0b3d2a27ba630d729bd49689c56925bf39992581/Total%20Ride%20Each%20Seasons%20for%20Member%20and%20Casual.png)
+
+Based on the graphs above, the trends of two types of riders both similar to each other, the number increase dramatically during the summer season with both reaching their peak in August. Also, the fall trend drastically appears for both types during the colder season, with casual riders in January and member riders in December. 
+
