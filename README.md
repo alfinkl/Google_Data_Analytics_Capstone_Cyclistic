@@ -56,6 +56,7 @@ The next behavior observation is regarding their weekly rides. Two figures above
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/ca725c00bf1b04efc529916ec35a0be5d468f69f/Top%20Start%20and%20End%20Station%20in%20Each%20Seasons%20for%20Casual%20Ride.png)
 
 Also, for the further understanding of the behavior the both types of riders, conduct the count of the location of the starting and ending stations. For the two figures above, apparently the member rider has consistent results shown in three seasons from  Spring to Fall with starting and ending stations at the same locations at Kingsbury St and Kinzie St. Although the results for casual riders are more diverse with three different stations, it turns out the Navy Pier station and Streeter Dr & Grand Ave station have the same latitude and longitude points as shown at table 1.3. So the casual riders tend to like start and end their ride at Navy Pier or Streeter Dr & Grand Ave station, but during the Summer time, the starting station move to DuSable Lake Shore Dr & Monroe St. 
+
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/bd36ad010c3731a031e54b77894a63a967fdd749/Map%20for%202%20most%20stations%20for%20casual.png)
 ![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/c3b1b89cda29224171be211a62452344c1ece7b0/Map%20for%202%20most%20stations%20for%20member.png)
 
@@ -83,8 +84,8 @@ Based on all the circumstances that were found from identifying and analyzing th
 |First-month free|Unlimited ride for 3 months|Unlimited ride for 3 months|Free ride for certain stations around the lake|
 |Unlimited ride for classic and electric bike|Free use for all types of bike|Free use for all types of bike|
 |Lower the price from current price by 10%|	Extra 2 days of weekends, so its 3 months + 2 days of weekend|Charge for 10% current annual member price|	
-|---------------------|Boost the marketing campaigns for the Summer recreational in Chicago|Boost the marketing campaigns for the lake tour, and introduce attractions around the stations|
-|---------------------|Charge for 25% of annual member price|----------------------------------|
+||Boost the marketing campaigns for the Summer recreational in Chicago|Boost the marketing campaigns for the lake tour, and introduce attractions around the stations|
+||Charge for 25% of annual member price||
 
 
 
