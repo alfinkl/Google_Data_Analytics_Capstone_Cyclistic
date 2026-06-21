@@ -19,3 +19,4 @@ According to the data-privacy issue, the database does not include any personal 
 This analysis use PostgreSQL for process the data, such as cleaning data, and manipulate the data, since the size of June to December data is too large for Google Sheets with approximately more than 100 MB for each files, so I decide to use all the process on PostgreSQL from the beginning. Combine with Tableau software to visualize my data through charts, graphs, and maps.
 Before the add table process to PostgreSQL, the first step is to identify the character of each column. The figure below showed the add table process on PostgreSQL : 
  ![image]
+ ![image] https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/db590e5b9fc36dd95af8ac01e7860c28e8634789/Null%20Data%20results.png
