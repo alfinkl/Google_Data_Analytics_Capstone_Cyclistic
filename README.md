@@ -17,6 +17,12 @@ According to the data-privacy issue, the database does not include any personal 
 ## Process
 ### Tools
 This analysis use PostgreSQL for process the data, such as cleaning data, and manipulate the data, since the size of June to December data is too large for Google Sheets with approximately more than 100 MB for each files, so I decide to use all the process on PostgreSQL from the beginning. Combine with Tableau software to visualize my data through charts, graphs, and maps.
-Before the add table process to PostgreSQL, the first step is to identify the character of each column. The figure below showed the add table process on PostgreSQL : 
- ![image]
- ![image] https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/db590e5b9fc36dd95af8ac01e7860c28e8634789/Null%20Data%20results.png
+Before the add table process to PostgreSQL, the first step is to identify the character of each column. The figure below showed the add table process on PostgreSQL :
+
+![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/fe20bbd684c558b7ac390338349e7692219af333/Add%20table%20process.png)
+
+### Cleaning Data
+After adding twelve months of datasets, the cleaning process starts with querying the number of the Null data. The figure below is the results of the query : 
+![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/db590e5b9fc36dd95af8ac01e7860c28e8634789/Null%20Data%20results.png)
+The next step is to eliminate the duplicate data, using command _ctid_ with ride_id as the pivot for this process to eliminate duplicate ride_id appearing on the datasets. Using this technique to let the command choose only the first unique column and erase the copy of the same column. Figure below is the query process for deleting the duplicate data : 
+
