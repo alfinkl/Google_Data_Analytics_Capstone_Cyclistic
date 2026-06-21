@@ -45,3 +45,10 @@ Starting with the total ride between them in each season, the two figures below 
 
 Based on the graphs above, the trends of two types of riders both similar to each other, the number increase dramatically during the summer season with both reaching their peak in August. Also, the fall trend drastically appears for both types during the colder season, with casual riders in January and member riders in December. 
 
+![image](https://github.com/alfinkl/Google_Data_Analytics_Capstone_Cyclistic/blob/a95c16ce9a0179274def6d3dc2f117da54a9c243/Peak%20Hour%20for%20Each%20Member%20and%20Casual.png)
+
+Considering the behavior of both types of riders, data about the time each type started to ride the bikes was collected for total rides in each hour a day . Based on the figure above it shows that before 12 am, most of the member riders rode the bike at 8 am, after noon time the number reached the peak hours at 5 pm. It shows that the characteristic for most of the member riders is using a bike for work. For the casual riders, the two highest number of riders reached not in the morning, with the most at 5 pm same as the member riders, and the second highest at 12 am.
+![image]
+![image]
+
+The next behavior observation is regarding their weekly rides. Two figures above showed the average for both types in a week. For the casual riders, they tend to ride a bike during the weekend, with the highest number of rides on Saturday. For the member riders graph, the trends showed most of the members commuted during the weekdays, with the total rides reaching over ten thousand on weekdays, with the highest number on Thursday.
